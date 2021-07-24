@@ -5,7 +5,6 @@ local Diamond = {
 92157681,
 2438792233,
 17597481,
-game.Players.LocalPlayer.UserId
 }
 
 local cucumber = {
@@ -43,7 +42,7 @@ local cucumber = {
 1147204442,
 2634061960,
 1858053491,
-game.Players.LocalPlayer.UserId
+1474983397
 }
 
 local Raider = {
@@ -64,7 +63,6 @@ local Raider = {
 1588475412,
 1625904038,
 248841053,
-game.Players.LocalPlayer.UserId
 }
 
 local ABC = {
@@ -76,7 +74,6 @@ local ABC = {
 109415966,
 205010970,
 675586857,
-game.Players.LocalPlayer.UserId
 }
 
 local iscool = {
@@ -85,7 +82,6 @@ local iscool = {
 632589208,
 1798268454,
 502426587,
-game.Players.LocalPlayer.UserId
 }
 
 local Heart = {
@@ -136,7 +132,6 @@ local Heart = {
 341459872,
 1757447612,
 2312739638,
-game.Players.LocalPlayer.UserId
 }
 
 local Crown = { -- 👑
@@ -270,7 +265,6 @@ local Crown = { -- 👑
 552409957,
 2252699399,
 2394118222,
-game.Players.LocalPlayer.UserId
 }
 
 local Lighting = { --⚡
@@ -288,7 +282,6 @@ local Lighting = { --⚡
 447939469,
 1382324180,
 1222177490,
-game.Players.LocalPlayer.UserId
 }
 
 local Ghost = { --👻
@@ -326,18 +319,15 @@ local Ghost = { --👻
 134749734,
 191198831,
 1125885551,
-game.Players.LocalPlayer.UserId
 }
 
 local Lu = {
 30759115,
-game.Players.LocalPlayer.UserId
 }
 
 local Ke = {
 50813900,
 1736738991,
-game.Players.LocalPlayer.UserId
 }
 
 ModIDS = {
@@ -2820,5 +2810,4 @@ ModIDS = {
 2602831382,
 674856074,
 2681467054,
-game.Players.LocalPlayer.UserId
 }
